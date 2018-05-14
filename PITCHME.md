@@ -1,6 +1,6 @@
 ---?image=/assets/image/black.jpg&opacity=90
 
-### Welcome to the Team Demo presentation!
+### Welcome to the Demo presentation!
 
 [UniBit Labs](http://universalbitproject.com)
 
