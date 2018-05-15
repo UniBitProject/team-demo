@@ -35,6 +35,7 @@ Proposed Changes
 Website: https://encryption.app 
 </center>
 
+---
 
 ### Encryption App Tech. Code Block
 '''javascript
@@ -87,7 +88,6 @@ Website: https://encryption.app
 	});
 '''
 
----
 
 ---?image=/assets/image/black.jpg&opacity=90
 
